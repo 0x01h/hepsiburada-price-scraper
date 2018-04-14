@@ -1,5 +1,5 @@
 # hepsiburada-price-scraper
-Small Python 3 script to scrape product prices on [hepsiburada.com](https://www.hepsiburada.com)
+Small Python 3 script to scrape product prices from [hepsiburada.com](https://www.hepsiburada.com)
 
 ## Prerequisite
 **bs4 (Beautiful Soup 4)** <br />
